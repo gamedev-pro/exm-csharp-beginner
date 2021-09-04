@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.1_ErrosDeSintaxe\\1.1_ErrosDeSintaxe.csproj": {}
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.2_ErrosDeLogica\\1.2_ErrosDeLogica.csproj": {}
   },
   "projects": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.1_ErrosDeSintaxe\\1.1_ErrosDeSintaxe.csproj": {
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.2_ErrosDeLogica\\1.2_ErrosDeLogica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.1_ErrosDeSintaxe\\1.1_ErrosDeSintaxe.csproj",
-        "projectName": "1.1_ErrosDeSintaxe",
-        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.1_ErrosDeSintaxe\\1.1_ErrosDeSintaxe.csproj",
+        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.2_ErrosDeLogica\\1.2_ErrosDeLogica.csproj",
+        "projectName": "1.2_ErrosDeLogica",
+        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.2_ErrosDeLogica\\1.2_ErrosDeLogica.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.1_ErrosDeSintaxe\\obj\\",
+        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\1.2_ErrosDeLogica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

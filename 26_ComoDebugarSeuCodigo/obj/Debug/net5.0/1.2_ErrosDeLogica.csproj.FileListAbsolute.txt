@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\ref\1.2_ErrosDeLogica.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\bin\Debug\net5.0\1.2_ErrosDeLogica.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\ref\1.2_ErrosDeLogica.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.2_ErrosDeLogica\obj\Debug\net5.0\1.2_ErrosDeLogica.genruntimeconfig.cache
