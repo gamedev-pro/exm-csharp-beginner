@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "40_ControleDeFluxo_Loops/1.0.0": {
+        "runtime": {
+          "40_ControleDeFluxo_Loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "40_ControleDeFluxo_Loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

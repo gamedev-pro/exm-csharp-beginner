@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\ref\40_ControleDeFluxo_Loops.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\bin\Debug\net5.0\40_ControleDeFluxo_Loops.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\ref\40_ControleDeFluxo_Loops.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\40_ControleDeFluxo_Loops\obj\Debug\net5.0\40_ControleDeFluxo_Loops.genruntimeconfig.cache

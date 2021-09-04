@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_8_Desafio_ChooseYourGear</RootNamespace>
+    <RootNamespace>_40_ControleDeFluxo_Loops</RootNamespace>
   </PropertyGroup>
 
 </Project>
