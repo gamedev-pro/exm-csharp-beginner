@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_48_Desafio_Classes</RootNamespace>
+    <RootNamespace>_49_ModificadoresDeAcesso</RootNamespace>
   </PropertyGroup>
 
 </Project>

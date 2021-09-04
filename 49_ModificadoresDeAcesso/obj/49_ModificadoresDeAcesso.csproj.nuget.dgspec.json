@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\48_Desafio_Classes\\48_Desafio_Classes.csproj": {}
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj": {}
   },
   "projects": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\48_Desafio_Classes\\48_Desafio_Classes.csproj": {
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\48_Desafio_Classes\\48_Desafio_Classes.csproj",
-        "projectName": "48_Desafio_Classes",
-        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\48_Desafio_Classes\\48_Desafio_Classes.csproj",
+        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj",
+        "projectName": "49_ModificadoresDeAcesso",
+        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1-ref\\48_Desafio_Classes\\obj\\",
+        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
