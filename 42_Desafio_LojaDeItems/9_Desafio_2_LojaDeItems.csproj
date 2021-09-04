@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_41_2DArrays</RootNamespace>
+    <RootNamespace>_9_Desafio_2_LojaDeItems</RootNamespace>
   </PropertyGroup>
 
 </Project>
