@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\ref\38_Arrays.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\bin\Debug\net5.0\38_Arrays.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\ref\38_Arrays.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\38_Arrays\obj\Debug\net5.0\38_Arrays.genruntimeconfig.cache

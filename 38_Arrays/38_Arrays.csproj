@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_7_Desafio_RockPaperScissors</RootNamespace>
+    <RootNamespace>_38_Arrays</RootNamespace>
   </PropertyGroup>
 
 </Project>
