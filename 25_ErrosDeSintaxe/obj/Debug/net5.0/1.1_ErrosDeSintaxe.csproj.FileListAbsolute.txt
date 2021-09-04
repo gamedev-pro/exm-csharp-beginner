@@ -1,0 +1,5 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.1_ErrosDeSintaxe\obj\Debug\net5.0\1.1_ErrosDeSintaxe.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.1_ErrosDeSintaxe\obj\Debug\net5.0\1.1_ErrosDeSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.1_ErrosDeSintaxe\obj\Debug\net5.0\1.1_ErrosDeSintaxe.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.1_ErrosDeSintaxe\obj\Debug\net5.0\1.1_ErrosDeSintaxe.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\1.1_ErrosDeSintaxe\obj\Debug\net5.0\1.1_ErrosDeSintaxe.csproj.CoreCompileInputs.cache
