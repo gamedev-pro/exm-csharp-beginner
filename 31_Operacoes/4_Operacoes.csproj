@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_3_Escopo</RootNamespace>
+    <RootNamespace>_4_Operacoes</RootNamespace>
   </PropertyGroup>
 
 </Project>

@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\ref\4_Operacoes.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\bin\Debug\net5.0\4_Operacoes.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\ref\4_Operacoes.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Operacoes\obj\Debug\net5.0\4_Operacoes.genruntimeconfig.cache
