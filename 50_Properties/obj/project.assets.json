@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj",
-      "projectName": "49_ModificadoresDeAcesso",
-      "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\49_ModificadoresDeAcesso.csproj",
+      "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\50_Properties\\50_Properties.csproj",
+      "projectName": "50_Properties",
+      "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\50_Properties\\50_Properties.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\49_ModificadoresDeAcesso\\obj\\",
+      "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\50_Properties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
