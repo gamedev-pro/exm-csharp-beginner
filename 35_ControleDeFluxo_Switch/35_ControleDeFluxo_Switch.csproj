@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>_5___Desafio___HalfLife</RootNamespace>
+    <RootNamespace>_35_ControleDeFluxo_Switch</RootNamespace>
   </PropertyGroup>
 
 </Project>

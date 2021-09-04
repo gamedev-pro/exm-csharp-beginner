@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\ref\35_ControleDeFluxo_Switch.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\bin\Debug\net5.0\35_ControleDeFluxo_Switch.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\ref\35_ControleDeFluxo_Switch.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\35_ControleDeFluxo_Switch\obj\Debug\net5.0\35_ControleDeFluxo_Switch.genruntimeconfig.cache
