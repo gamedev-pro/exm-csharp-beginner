@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\43_Namespaces_Lists\\43_Namespaces_Lists.csproj": {}
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\44_Desafio_Listas\\44_Desafio_Listas.csproj": {}
   },
   "projects": {
-    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\43_Namespaces_Lists\\43_Namespaces_Lists.csproj": {
+    "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\44_Desafio_Listas\\44_Desafio_Listas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\43_Namespaces_Lists\\43_Namespaces_Lists.csproj",
-        "projectName": "43_Namespaces_Lists",
-        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\43_Namespaces_Lists\\43_Namespaces_Lists.csproj",
+        "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\44_Desafio_Listas\\44_Desafio_Listas.csproj",
+        "projectName": "44_Desafio_Listas",
+        "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\44_Desafio_Listas\\44_Desafio_Listas.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\43_Namespaces_Lists\\obj\\",
+        "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\44_Desafio_Listas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
