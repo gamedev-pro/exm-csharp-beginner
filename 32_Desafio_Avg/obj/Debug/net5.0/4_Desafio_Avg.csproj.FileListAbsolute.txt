@@ -1,0 +1,16 @@
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.exe
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.deps.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.runtimeconfig.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.runtimeconfig.dev.json
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\ref\4_Desafio_Avg.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\bin\Debug\net5.0\4_Desafio_Avg.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.csprojAssemblyReference.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.AssemblyInfoInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.AssemblyInfo.cs
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.csproj.CoreCompileInputs.cache
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\ref\4_Desafio_Avg.dll
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.pdb
+D:\GameDevPro\ExpertMode 1.0\Fase 1.1\csharp-sintax-1\4_Desafio_Avg\obj\Debug\net5.0\4_Desafio_Avg.genruntimeconfig.cache
