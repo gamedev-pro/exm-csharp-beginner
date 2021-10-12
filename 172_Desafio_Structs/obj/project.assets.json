@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\52_Const_ReadOnly\\52_Const_ReadOnly.csproj",
-      "projectName": "52_Const_ReadOnly",
-      "projectPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\52_Const_ReadOnly\\52_Const_ReadOnly.csproj",
+      "projectUniqueName": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-beginner\\172_Desafio_Structs\\172_Desafio_Structs.csproj",
+      "projectName": "172_Desafio_Structs",
+      "projectPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-beginner\\172_Desafio_Structs\\172_Desafio_Structs.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\GameDevPro\\ExpertMode 1.0\\Fase 1.1\\csharp-sintax-1\\52_Const_ReadOnly\\obj\\",
+      "outputPath": "D:\\dev\\src\\github.com\\gamedev-pro\\exm-csharp-beginner\\172_Desafio_Structs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
